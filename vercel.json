@@ -1,6 +1,1 @@
-{
-  "github": {
-    "autoAlias": false,
-    "silent": true
-  }
-}
+{"$schema":"https://openapi.vercel.sh/vercel.json","github":{"autoAlias":false}}
